@@ -1,0 +1,10 @@
+* cl-gbm
+
+Common Lisp wrapper to libgbm
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/malcolmstill/cl-gbm.git   |
+| commit  | 95a25e8  |
+| systems | cl-gbm |
+|---------+-------------------------------------------|
+
